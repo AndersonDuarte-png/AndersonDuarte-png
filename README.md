@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-<!--
-**AndersonDuarte-png/AndersonDuarte-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado(a) por tecnologia, aprendizado contínuo e soluções criativas. Aqui você encontrará alguns dos meus projetos, estudos e contribuições em áreas como:
 
-Here are some ideas to get you started:
+- 💻 Desenvolvimento de software
+- ☁️ Computação em nuvem
+- 🔒 Segurança da informação
+- ⚙️ Automação e infraestrutura
+- 📊 Análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sinta-se à vontade para explorar, deixar feedbacks ou entrar em contato.  
+Vamos construir juntos soluções inteligentes e colaborativas!
+
+---
+
+🚀 **Vamos nos conectar?** 
